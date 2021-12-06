@@ -1,0 +1,23 @@
+{
+    "com.github.randomcharacter.ulauncher-meet": {
+        "id": "com.github.randomcharacter.ulauncher-meet",
+        "url": "https://github.com/randomCharacter/ulauncher-meet",
+        "updated_at": "2021-07-16T20:54:28.491372",
+        "last_commit": "f2fe055b6e21e15ea4c65918a6f499d61d4cf4b0",
+        "last_commit_time": "2021-02-26T22:04:21"
+    },
+    "com.github.glovecc.ulauncher-github-search": {
+        "id": "com.github.glovecc.ulauncher-github-search",
+        "url": "https://github.com/Glovecc/ulauncher-github-search",
+        "updated_at": "2021-07-16T20:55:14.335308",
+        "last_commit": "14b102191ce1a9ca4c2e67fbcc6b1269333df50e",
+        "last_commit_time": "2020-02-12T09:49:45"
+    },
+    "com.github.the-lay.ulauncher-spotify-api": {
+        "id": "com.github.the-lay.ulauncher-spotify-api",
+        "url": "https://github.com/the-lay/ulauncher-spotify-api",
+        "updated_at": "2021-07-16T21:10:51.808416",
+        "last_commit": "1a1c5e191cc6f75134eb336786a8c3e4fe0c8e39",
+        "last_commit_time": "2021-06-17T18:07:56"
+    }
+}
